@@ -9,7 +9,7 @@ export default new Vuetify({
         dark: CONFIG.app.enable_default_darkmode
     },
     icons: {
-        iconfont: "md"
+        iconfont: "mdi"
     }
 });
 
