@@ -1,0 +1,7 @@
+{
+  "app": {
+    "name": "Sample Application",
+    "version": "v1.0",
+    "enable_default_darkmode": true
+  }
+}

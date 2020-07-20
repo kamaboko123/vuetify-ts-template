@@ -1,0 +1,38 @@
+{
+    "name": "vuetify-ts-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev-server": "./node_modules/.bin/webpack-dev-server",
+        "build": "./node_modules/.bin/webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/kamaboko123/vuetify-ts-template.git"
+    },
+    "author": "kamaboko123",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kamaboko123/vuetify-ts-template/issues"
+    },
+    "homepage": "https://github.com/kamaboko123/vuetify-ts-template#readme",
+    "dependencies": {
+        "@mdi/font": "^5.3.45",
+        "css-loader": "^3.6.0",
+        "express": "^4.17.1",
+        "file-loader": "^6.0.0",
+        "ts-loader": "^8.0.1",
+        "typescript": "^3.9.7",
+        "vue": "^2.6.11",
+        "vue-class-component": "^7.2.3",
+        "vue-loader": "^15.9.3",
+        "vue-property-decorator": "^9.0.0",
+        "vue-template-compiler": "^2.6.11",
+        "vuetify": "^2.3.4",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.12",
+        "webpack-dev-server": "^3.11.0"
+    }
+}
