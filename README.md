@@ -1,6 +1,6 @@
-# Web frontend application template with Vuetify + Typescript
+# Vuetify + Typescript Application template
 
-This is sample code for develop Web front end application with Vuetify + Typescript.
+This is sample code for develop Web front-end application with Vuetify + Typescript.
 
 ## Getting started
 
